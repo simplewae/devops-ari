@@ -1,3 +1,4 @@
 Testing buat file di git Repo
 test tambah baris
 test checkout
+test get diff
